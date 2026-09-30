@@ -1,5 +1,8 @@
-package com.example.RentalCar;
+package com.example.RentalCar.service;
 
+// Tu dois IMPORTER Car et Dates depuis le package entity !
+import com.example.RentalCar.entity.Car;
+import com.example.RentalCar.entity.Dates;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;

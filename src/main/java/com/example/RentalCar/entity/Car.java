@@ -1,4 +1,4 @@
-package com.example.RentalCar;
+package com.example.RentalCar.entity;
 
 public class Car {
     private String plateNumber;

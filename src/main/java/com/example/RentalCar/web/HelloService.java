@@ -1,4 +1,4 @@
-package com.example.RentalCar;
+package com.example.RentalCar.web;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

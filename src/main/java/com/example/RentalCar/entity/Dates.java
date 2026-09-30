@@ -1,4 +1,4 @@
-package com.example.RentalCar;
+package com.example.RentalCar.entity;
 
 public class Dates {
     private String begin;
